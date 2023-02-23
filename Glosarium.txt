@@ -1,0 +1,54 @@
+Browser
+Browser atau peramban merupakan sebuah perangkat lunak komputer untuk mencari informasi dalam situs internet.
+
+Compiler
+Program komputer yang menerjemahkan kode yang ditulis dalam satu bahasa pemrograman ke bahasa lain yang dimengerti oleh mesin.
+
+Debugging
+Proses mengidentifikasi dan menghilangkan error pada aplikasi.
+
+End User
+Calon pengguna dari aplikasi yang dibuat.
+
+Executable
+Sebuah format file yang bisa langsung dijalankan tanpa menggunakan aplikasi tambahan.
+
+Flowchart
+Bentuk penggambaran dengan pendekatan visual terkait langkah-langkah dan keputusan untuk melakukan sebuah proses, alur kerja, ataupun algoritma.
+
+Inspect Element
+Fitur yang disediakan oleh browser untuk memudahkan kita untuk melihat kode yang digunakan dalam sebuah website.
+
+Interactive Code
+Fitur yang disediakan Dicoding untuk menulis dan menjalankan kode secara langsung di dalam sub-modul.
+
+Interpreter
+Program untuk menerjemahkan setiap baris kode dari bahasa pemrograman menjadi bahasa yang dimengerti oleh mesin secara langsung. Tanpa melalui proses kompilasi.
+
+Library
+Sekumpulan sumber daya, biasanya berupa kode atau program, yang memiliki fungsionalitas tertentu dan bisa digunakan pada program lain.
+
+Login
+Mekanisme untuk masuk ke dalam suatu sistem
+
+Logout
+Mekanisme untuk keluar dari suatu sistem
+
+Mockup
+Media visual yang digunakan untuk melihat preview sebuah konsep desain
+
+Pseudocode
+Istilah dalam pemrograman untuk menuliskan sebuah sintaks, statement, algoritma, dan lainnya dalam bahasa yang bisa dipahami oleh manusia.
+
+Runtime
+Lingkungan, platform, atau sumber daya yang menjalankan suatu kode/program.
+
+Script
+Kode yang kita tulis.
+
+Sintaks
+Kaidah atau aturan dalam bahasa pemrograman.
+
+Stakeholder
+Pihak yang berkepentingan dalam membuat aplikasi, seperti manager sebagai pemilik aplikasi, developer sebagai pembuat aplikasi, customer sebagai yang membiayai pembuatan aplikasi, dan user sebagai pengguna aplikasi.
+
