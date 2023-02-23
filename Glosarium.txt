@@ -52,3 +52,4 @@ Kaidah atau aturan dalam bahasa pemrograman.
 Stakeholder
 Pihak yang berkepentingan dalam membuat aplikasi, seperti manager sebagai pemilik aplikasi, developer sebagai pembuat aplikasi, customer sebagai yang membiayai pembuatan aplikasi, dan user sebagai pengguna aplikasi.
 
+aaa
